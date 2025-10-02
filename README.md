@@ -16,9 +16,13 @@ It solves one of the most common AI problems: **categorizing text** (e.g., posit
 
 ##  Project Structure
 text-classification-ai/
+
 ├── train_model.py # Main training script
+
 ├── predict.py # Script for predictions
+
 ├── dataset.csv # Example dataset
+
 └── model.pkl # Saved trained model
 
 ---
