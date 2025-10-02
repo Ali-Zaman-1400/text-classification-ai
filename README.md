@@ -34,7 +34,6 @@ text-classification-ai/
    ```bash
    python train_model.py
 
-
 ---
 
 # Run prediction on new text:
@@ -42,7 +41,6 @@ text-classification-ai/
    python predict.py "This product is amazing!"
 
 ---
-
 ## Example Datasettext,label:
 
 I love this product,positive
