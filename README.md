@@ -27,7 +27,6 @@ text-classification-ai/
 1. Install dependencies:
    ```bash
    pip install scikit-learn pandas
-
 ---
 
 ##  Train the model:
