@@ -31,14 +31,12 @@ text-classification-ai/
 
 ##  Train the model:
 2. Train the model:
-   ```bash
-   python train_model.py
 
+   python train_model.py
 ---
 
 
 ## Example Datasettext,label:
-
 I love this product,positive
 
 This is the worst experience ever,negative
@@ -48,7 +46,6 @@ The service was okay,neutral
 ---
 
 ## Author:
-
 Ali Zaman
 Freelance Data Engineer & AI Specialist
 
@@ -57,29 +54,4 @@ Expertise: Python, Machine Learning, NLP, Data Engineering
 ---
 
 ## License:
-
-MIT License
-# Run prediction on new text:
-   ```bash
-   python predict.py "This product is amazing!"
-
-## Example Datasettext,label:
-
-I love this product,positive
-This is the worst experience ever,negative
-The service was okay,neutral
-
----
-
-## Author 
-
-Ali Zaman
-Freelance Data Engineer & AI Specialist
-
-Expertise: Python, Machine Learning, NLP, Data Engineering
-
----
-
-## License
-
 MIT License
