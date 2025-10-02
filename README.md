@@ -39,8 +39,8 @@ text-classification-ai/
 ---
 
 # Run prediction on new text:
-
-python predict.py "This product is amazing!"
+   ```bash
+   python predict.py "This product is amazing!"
 
 ---
 
