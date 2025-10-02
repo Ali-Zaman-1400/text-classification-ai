@@ -46,7 +46,8 @@ The service was okay,neutral
 ---
 
 ## Author:
-Ali Zaman
+Ali Zamanpour
+
 Freelance Data Engineer & AI Specialist
 
 Expertise: Python, Machine Learning, NLP, Data Engineering
